@@ -2,8 +2,6 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ikk repo
 
-![image]()
-
 # Installation
 
 Öncelikle projeyi clonelayın
